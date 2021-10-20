@@ -226,7 +226,7 @@ button.bt-3 {
   grid-area: c;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 /* claculator child */
